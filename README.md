@@ -19,7 +19,6 @@ This project demonstrates a FastAPI application with JWT authentication (access 
 
 - Python 3.10+
 - Redis server (local or Docker)
-- [See `notes.txt`](notes.txt) for required Python packages and system dependencies.
 
 ---
 
